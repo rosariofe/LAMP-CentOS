@@ -1,6 +1,6 @@
-<h1> TrilhaSRE </h1>
+<h1> LNMP with WordPress </h1>
 
-<h2>Esta trilha tem como objetivo demonstrar os conhecimentos necessários para estar apto para o time de SRE.</h2>
+<h2>Esta trilha tem como objetivo demonstrar os passos necessários para subir uma LAMP com WordPress</h2>
 
 <h2>Pré requisitos:</h3>
 
