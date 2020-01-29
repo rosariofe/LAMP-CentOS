@@ -48,7 +48,7 @@
   <kbd>yum install -y http://rpms.remirepo.net/enterprise/remi-release-7.rpm</kbd>
   <kbd> yum-config-manager --enable remi-php72</kbd>
 </li>
-  <li>Agora, você irá instalar os pacotes base do PHP jntamento com otros pacotes que aplicações PHP utilizam. </li>
+  <li>Agora, você irá instalar os pacotes base do PHP juntamente com outros pacotes que aplicações PHP utilizam. </li>
       <kbd>yum install -y php php-fpm php-mysqlnd</kbd>
         <li>Se quiser verificar a versão que está instalada do PHP, basta rodar o comando:</li>
         <kbd> php --version </kbd>
